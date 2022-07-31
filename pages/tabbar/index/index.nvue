@@ -1,0 +1,14 @@
+<template>
+	<view>
+		
+		<view>Hello world</view>
+	</view>
+</template>
+
+<script>
+	
+</script>
+
+<style>
+	
+</style>
